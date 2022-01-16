@@ -1,6 +1,6 @@
 <template>
   <button
-    class="border-none py-4 px-8 rounded-5xl font-bold text-veryLightGray bg-gradient-to-r from-limeGreen to-brightCyan"
+    class="border-none py-4 px-8 rounded-5xl font-bold text-veryLightGray bg-gradient-to-r from-limeGreen to-brightCyan hover:opacity-80"
   >
     {{ title }}
   </button>
